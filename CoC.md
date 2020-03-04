@@ -72,7 +72,7 @@ Removing a participant from the conference, meetup or online space, without refu
 The action taken is at the discretion of the Code of Conduct team. Participants are expected to comply immediately, and further action may be taken in case a participant does not comply. A record will be kept of all incidents.
 
 # What to do in case of violations?
-If a Code of Conduct incident happens that affects you, or witness it affecting someone else, please contact the appropriate CoC team immediately. See the contact details below for the different teams for different spaces. In all cases, you may email conduct@writethedocs.org, but contacting local organisers may be faster. Email to the conduct@writethedocs.org is received by all members of the Core Team.
+If a Code of Conduct incident happens that affects you, or witness it affecting someone else, please contact the appropriate CoC team immediately. See the contact details below for the different teams for different spaces. In all cases, you can contact us via the group meetup page at https://www.meetup.com/MelbIOT or in person at one of our events.
 
 # Guidelines for reporting incidents
 Please do not feel like you may be a burden to us by reporting incidents. Even if you happen to report multiple incidents. We rather consider reports an opportunity for us to act: by knowing about an incident, we can act on it, and often prevent it from continuing or repeating. But if we don’t know, we can’t take action.
@@ -100,12 +100,12 @@ All reports will be kept confidential. In some cases a public statement might be
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. However, we will not contact security or law enforcement without your consent, except if the safety risk is so significant that there is no other reasonable option.
 
 # Reporting and contact information
-Each Write the Docs conference has a Code of Conduct team. For each conference, their names and contact details are listed below. They will be introduced at the start of the conference. You can also approach any other staff member, who can be identified by t-shirts or special badges.
-For online platforms, we ask that you make any reports by emailing conduct@writethedocs.org. This is received by all members of the Core Team. For reports on incidents on Slack, the core team may involve the Moderation Team.
-For meetups, please report the incident to the local meetup organisers. If you feel uncomfortable with this, if you feel the incident was not well handled by the local organisers, or if you are a meetup organiser and would like to ask for input, you can email conduct@writethedocs.org.
+Each MelbIOT event has a Code of Conduct team. For each conference, their names and contact details are listed below. They will be introduced at the start of the conference. You can also approach any event organiser, who will be indentified at the event. 
+For online platforms, we ask that you make any reports by contacting us via the Meetup group https://www.meetup.com/MelbIOT/members/?op=leaders or any social media platform the organiser team has a presence on. This is received by all members of the Core Team. For reports on incidents on Slack, the core team may involve the Moderation Team.
+For meetups, please report the incident to the local meetup organisers. If you feel uncomfortable with this, if you feel the incident was not well handled by the local organisers, or if you are a meetup organiser and would like to ask for input, you can contact us via the same methods outlined above.
 If you believe anyone is in physical danger, please notify appropriate law enforcement first when possible. If you are unsure which law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.
 
 # Reports about a Code of Conduct response team member
-If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other team response member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup organiser, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also email conduct@writethedocs.org.
+If your report concerns a member of the Code of Conduct team of a conference, you can report the issue to any other team response member or any other organiser. For reports regarding meetup organisers, you can make the report to another meetup organiser, if there is one. If this is not possible, or for any reason you feel uncomfortable with this, you can also contact us via the direct message functionality on https://www.meetup.com/MelbIOT/members/?op=leaders.
 
-If your report concerns a member of the Core Team, which receives emails to conduct@writethedocs.org, you can report the issue individually to any of the other core team members.
+If your report concerns a member of the Core Team you can report the issue individually to any of the other core team members.
